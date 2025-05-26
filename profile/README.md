@@ -76,7 +76,8 @@ Join the discussion:
 
 This GitHub organization will host all components of the Dissonance project:
 
-- `pre-aplha` – Core C++ CLI audio parser
+- `pre-aplha` – .wav file parser (metadata and audio data, CLI display)
+- `dissonance-core` – Core C++ CLI-based tool that applies adversarial perturbations
 
 ---
 
