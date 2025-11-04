@@ -24,26 +24,6 @@ Dissonance is now a cross-platform desktop app built with Electron and web techn
 - **Desktop Packaging:** Electron
 - **Build Tools:** electron-builder
 
----
-
-## 🚀 Getting Started
-
-1. Clone the repository
-2. Install dependencies:
-
-   ```bash
-   cd dissonance-app
-   npm install
-   ```
-
-3. Run the app locally:
-
-   ```bash
-   npm start
-   ```
-
----
-
 ## 🚀 Continuous Integration & Deployment
 
 ### CI/CD Pipeline
