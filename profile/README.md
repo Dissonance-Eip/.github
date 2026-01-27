@@ -1,6 +1,6 @@
 # 🎧 Dissonance (Electron Desktop App)
 
-**Protecting your audio from AI exploitation—now as a downloadable desktop web app.**
+**Protecting your audio from AI exploitation, now as a downloadable desktop web app.**
 
 ---
 
